@@ -1,0 +1,15 @@
+C:\Users\FPT\source\repos\C#\GeometriExample\obj\Debug\net6.0\GeometriExample.csproj.AssemblyReference.cache
+C:\Users\FPT\source\repos\C#\GeometriExample\obj\Debug\net6.0\GeometriExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FPT\source\repos\C#\GeometriExample\obj\Debug\net6.0\GeometriExample.AssemblyInfoInputs.cache
+C:\Users\FPT\source\repos\C#\GeometriExample\obj\Debug\net6.0\GeometriExample.AssemblyInfo.cs
+C:\Users\FPT\source\repos\C#\GeometriExample\obj\Debug\net6.0\GeometriExample.csproj.CoreCompileInputs.cache
+C:\Users\FPT\source\repos\C#\GeometriExample\bin\Debug\net6.0\GeometriExample.exe
+C:\Users\FPT\source\repos\C#\GeometriExample\bin\Debug\net6.0\GeometriExample.deps.json
+C:\Users\FPT\source\repos\C#\GeometriExample\bin\Debug\net6.0\GeometriExample.runtimeconfig.json
+C:\Users\FPT\source\repos\C#\GeometriExample\bin\Debug\net6.0\GeometriExample.dll
+C:\Users\FPT\source\repos\C#\GeometriExample\bin\Debug\net6.0\GeometriExample.pdb
+C:\Users\FPT\source\repos\C#\GeometriExample\obj\Debug\net6.0\GeometriExample.dll
+C:\Users\FPT\source\repos\C#\GeometriExample\obj\Debug\net6.0\refint\GeometriExample.dll
+C:\Users\FPT\source\repos\C#\GeometriExample\obj\Debug\net6.0\GeometriExample.pdb
+C:\Users\FPT\source\repos\C#\GeometriExample\obj\Debug\net6.0\GeometriExample.genruntimeconfig.cache
+C:\Users\FPT\source\repos\C#\GeometriExample\obj\Debug\net6.0\ref\GeometriExample.dll

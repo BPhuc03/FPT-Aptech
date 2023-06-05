@@ -1,4 +1,4 @@
-﻿namespace EX2
+﻿namespace bt2
 {
     class GameItem
     {
